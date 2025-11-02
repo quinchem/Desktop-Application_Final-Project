@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\OneDrive\\study area\\ueh\\Desktop\\Code\\quinchem\\Desktop-Application_Final-Project\\CinemaTicketBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{986CF3C8-BF4A-4F4D-804F-511D9F6EAADB}|CinemaTicketBooking.csproj|c:\\users\\nguye\\onedrive\\study area\\ueh\\desktop\\code\\quinchem\\desktop-application_final-project\\cinematicketbooking\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{986CF3C8-BF4A-4F4D-804F-511D9F6EAADB}|CinemaTicketBooking.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{986CF3C8-BF4A-4F4D-804F-511D9F6EAADB}|CinemaTicketBooking.csproj|c:\\users\\nguye\\onedrive\\study area\\ueh\\desktop\\code\\quinchem\\desktop-application_final-project\\cinematicketbooking\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{986CF3C8-BF4A-4F4D-804F-511D9F6EAADB}|CinemaTicketBooking.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\study area\\ueh\\Desktop\\Code\\quinchem\\Desktop-Application_Final-Project\\CinemaTicketBooking\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\study area\\ueh\\Desktop\\Code\\quinchem\\Desktop-Application_Final-Project\\CinemaTicketBooking\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T17:19:40.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\OneDrive\\study area\\ueh\\Desktop\\Code\\quinchem\\Desktop-Application_Final-Project\\CinemaTicketBooking\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nguye\\OneDrive\\study area\\ueh\\Desktop\\Code\\quinchem\\Desktop-Application_Final-Project\\CinemaTicketBooking\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T17:19:35.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
